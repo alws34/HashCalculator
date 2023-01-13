@@ -1,0 +1,11 @@
+C:\Users\Server\source\repos\ShaCalculator\bin\Debug\ShaCalculator.exe.config
+C:\Users\Server\source\repos\ShaCalculator\bin\Debug\ShaCalculator.exe
+C:\Users\Server\source\repos\ShaCalculator\bin\Debug\ShaCalculator.pdb
+C:\Users\Server\source\repos\ShaCalculator\obj\Debug\ShaCalculator.csproj.AssemblyReference.cache
+C:\Users\Server\source\repos\ShaCalculator\obj\Debug\ShaCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Server\source\repos\ShaCalculator\obj\Debug\ShaCalculator.Properties.Resources.resources
+C:\Users\Server\source\repos\ShaCalculator\obj\Debug\ShaCalculator.csproj.GenerateResource.cache
+C:\Users\Server\source\repos\ShaCalculator\obj\Debug\ShaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Server\source\repos\ShaCalculator\obj\Debug\ShaCalculator.exe
+C:\Users\Server\source\repos\ShaCalculator\obj\Debug\ShaCalculator.pdb
+C:\Users\Server\source\repos\ShaCalculator\obj\Debug\ShaCalculator.frmShaCalculator.resources
